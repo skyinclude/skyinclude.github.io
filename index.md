@@ -31,6 +31,8 @@ HNS is the coin, the currency, that enables this to be made and maintained.
 
 Do you want to claim your own TLD?
 
+[Learn more about](about.html)
+
 Imagine you are the owner of .mink
 
 That means you can sell mike.mink for a yearly fee - just like you buy a .com.
