@@ -1,37 +1,42 @@
 ## Welcome to Sky Include
 
-You can use the [editor on GitHub](https://github.com/loadpipe/skyinclude.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Own Your Piece of the Internet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SkyInclude Helps You Ensure You Are Part of the New Internet
 
-### Markdown
+Be an Early Adopter and Claim Your TLD of the decentralized web
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Disrupting the old DNS
 
-- Bulleted
-- List
+DNS (Domain Name Service) is using the old internet and a closed system controlled by a few.
 
-1. Numbered
-2. List
+Yet the internet is meant to be an open web.
 
-**Bold** and _Italic_ and `Code` text
+Wouldn’t it be nice to have a blockchain enabled DNS? One that isn’t controlled by large private corporations who rent to use their domain naming system on a yearly basis?
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## In comes HNS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loadpipe/skyinclude.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Handshake, and Namebase is leading the charge - to create a blockchain enabled DNS called HNS. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+HNS is the coin, the currency, that enables this to be made and maintained.
+
+
+
+## Let SkyInclude Help You Get Your Piece of the New Web
+
+Do you want to claim your own TLD?
+
+Imagine you are the owner of .mink
+
+That means you can sell mike.mink for a yearly fee - just like you buy a .com.
+
+It is 2020, and this is still very possible to do.
+
+Get ahead now and work with a broker at SkyInclude to ensure you are included in this new world.
+
+Contact Us To Request Help Locking In Your Future Piece of the Decentralized Web
