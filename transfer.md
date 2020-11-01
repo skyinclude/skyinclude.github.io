@@ -6,4 +6,4 @@ To transfer- get your github username (or signup free) and send it to us, with t
 
 ### Watch Video
 
-We have a quick video on youtube here 
+We have a quick video on youtube here https://youtu.be/En8y02H3SlA
