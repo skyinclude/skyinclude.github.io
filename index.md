@@ -59,7 +59,7 @@ This is a logistics and warehousing (Third Party Logistics, 3PL) service provide
 [My.bpo](http://my.bpo)
 This is a business process outsourcing (BPO) service provider community coming soon
 
-[My.qc](http://my.qc)
+My.qc (still resolving)
 This is a quality control (QC) service provider community coming soon
 
 [My.evergreen](http://my.evergreen)
