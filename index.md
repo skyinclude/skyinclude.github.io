@@ -50,7 +50,7 @@ Let’s add some links to our other Handshake sites:
 [Setup.Skyinclude](http://setup.skyinclude)
 Want us to help create your site in Handshake? This is a tutorial as well as a full service agency to help people create their sites on the Handshake ecosystem
 
-[Setup.Skyinclude](http://setup.skyinclude)Contentinvestments.evergreen
+[Contentinvestments.evergreen](http://contentinvestments.evergreen)
 This is a content creation service - and we can also help make content on the HNS ecosystem.
 
 [My.3pl](http://my.3pl) 
