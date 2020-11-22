@@ -63,7 +63,7 @@ My.qc (still resolving)
 This is a quality control (QC) service provider community coming soon
 
 
-[xn--wnu286b.xn--fmrp5v](http://xn--wnu286b.xn--fmrp5v/)
+[我的.工厂](http://xn--wnu286b.xn--fmrp5v/)
 My factory in Chinese 
 
 [My.evergreen](http://my.evergreen)
