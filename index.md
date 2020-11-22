@@ -84,6 +84,12 @@ This is a web crawling montoring and maintenance service coming soon.
 [home.lyy](http://home.lyy)
 This is a link shortening community network service coming soon.
 
+[go.skydeliver](http://go.skydeliver)
+File and website delivery from SkyInclude
+
+[so.cuul](http://so.cuul)
+Because you're so cuul, you need a place to share you cuul collections.
+
 [go.neleh](http://go.neleh)
 Go Neleh (personal site)
 
