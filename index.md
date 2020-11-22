@@ -62,6 +62,10 @@ This is a business process outsourcing (BPO) service provider community coming s
 My.qc (still resolving)
 This is a quality control (QC) service provider community coming soon
 
+
+[xn--wnu286b.xn--fmrp5v](http://xn--wnu286b.xn--fmrp5v/)
+My factory in Chinese 
+
 [My.evergreen](http://my.evergreen)
 This is a content creators service provider community coming soon.
 
