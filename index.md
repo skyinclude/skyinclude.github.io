@@ -65,6 +65,18 @@ This is a quality control (QC) service provider community coming soon
 [My.evergreen](http://my.evergreen)
 This is a content creators service provider community coming soon.
 
+[My.dataunion](http://my.dataunion)
+This is a data union banking community coming soon.
+
+[My.vocation](http://my.evergreen)
+This is a career development community coming soon.
+
+[My.pingback](http://my.pingback)
+This is a pingback monitoring and management service coming soon.
+
+[My.crawling](http://my.crawling)
+This is a web crawling montoring and maintenance service coming soon.
+
 [Home.shadstone](http://home.shadstone)
 This is the parent company and operations of the services.
 
