@@ -50,7 +50,7 @@ Let’s add some links to our other Handshake sites:
 [Setup.Skyinclude](http://setup.skyinclude)
 Want us to help create your site in Handshake? This is a tutorial as well as a full service agency to help people create their sites on the Handshake ecosystem
 
-[Contentinvestments.evergreen](http://contentinvestments.evergreen)
+[Contentinvestments.upsy](http://contentinvestments.upsy)
 This is a content creation service - and we can also help make content on the HNS ecosystem.
 
 [My.3pl](http://my.3pl) 
@@ -72,7 +72,7 @@ This is a content creators service provider community coming soon.
 [My.dataunion](http://my.dataunion)
 This is a data union banking community coming soon.
 
-[My.vocation](http://my.evergreen)
+[My.vocation](http://my.vocation)
 This is a career development community coming soon.
 
 [My.pingback](http://my.pingback)
