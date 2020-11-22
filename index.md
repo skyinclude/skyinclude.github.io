@@ -81,6 +81,9 @@ This is a pingback monitoring and management service coming soon.
 [My.crawling](http://my.crawling)
 This is a web crawling montoring and maintenance service coming soon.
 
+[home.lyy](http://home.lyy)
+This is a link shortening community network service coming soon.
+
 [Home.shadstone](http://home.shadstone)
 This is the parent company and operations of the services.
 
