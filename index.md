@@ -42,3 +42,35 @@ It is 2020, and this is still very possible to do.
 Get ahead now and work with a broker at SkyInclude to ensure you are included in this new world.
 
 Contact Us To Request Help Locking In Your Future Piece of the Decentralized Web
+
+## Some Of Our Portfolio
+
+Let’s add some links to our other Handshake sites:
+
+[Setup.Skyinclude](http://setup.skyinclude)
+Want us to help create your site in Handshake? This is a tutorial as well as a full service agency to help people create their sites on the Handshake ecosystem
+
+[Setup.Skyinclude](http://setup.skyinclude)Contentinvestments.evergreen
+This is a content creation service - and we can also help make content on the HNS ecosystem.
+
+[My.3pl](http://my.3pl) 
+This is a logistics and warehousing (Third Party Logistics, 3PL) service provider community coming soon.
+
+[My.bpo](http://my.bpo)
+This is a business process outsourcing (BPO) service provider community coming soon
+
+[My.qc](http://my.qc)
+This is a quality control (QC) service provider community coming soon
+
+[My.evergreen](http://my.evergreen)
+This is a content creators service provider community coming soon.
+
+[Home.shadstone](http://home.shadstone)
+This is the parent company and operations of the services.
+
+[Podcast.GlobalFromAsia](http://podcast.globalfromasia)
+Some of the recent podcasts (for full list head to DNS [GlobalFromAsia.com/podcast-radio/](https://www.globalfromasia.com/podcast-radio/ 
+)
+
+
+
