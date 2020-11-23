@@ -2,6 +2,8 @@
 
 Do you want to actually have your site hosted and setup in the decentralized web? Let's talk!
 
+Learn more at [setup.skyinclude/port/](http://setup.skyinclude/port)
+
 ## Making websites in the new decentralized web.
 
 There is a new revolution against ICANN and DNS (domain name system)
@@ -42,3 +44,7 @@ To help you do this, we will need view access to:
 2) your TLD in HNS (you can setup the settings, we do not need access) 
 And then the hosting we use Github:
 3) To make the site, we will need your GitHub account. Orr we can use ours if you do not want to signup.
+
+## Let's Talk And Help You Get Setup Today!
+
+Learn more about this full service at [setup.skyinclude/port/](http://setup.skyinclude/port)
