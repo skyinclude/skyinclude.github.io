@@ -66,6 +66,9 @@ This is a quality control (QC) service provider community coming soon
 [我的.工厂](http://xn--wnu286b.xn--fmrp5v/)
 My factory in Chinese 
 
+[My.bartender](http://my.bartender)
+This is a bartender community coming soon.
+
 [My.evergreen](http://my.evergreen)
 This is a content creators service provider community coming soon.
 
