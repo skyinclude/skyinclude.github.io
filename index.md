@@ -73,10 +73,7 @@ I.work in Chinese
 This is a bartender community coming soon.
 
 [My.evergreen](http://my.evergreen)
-This is a content creators service provider community coming soon.
-
-[My.dataunion](http://my.dataunion)
-This is a data union banking community coming soon.
+This is a content creators service provider community coming soon
 
 [My.vocation](http://my.vocation)
 This is a career development community coming soon.
