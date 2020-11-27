@@ -59,7 +59,7 @@ This is a logistics and warehousing (Third Party Logistics, 3PL) service provide
 [My.bpo](http://my.bpo)
 This is a business process outsourcing (BPO) service provider community coming soon
 
-My.qc (still resolving)
+[My.qc](http://my.qc)
 This is a quality control (QC) service provider community coming soon
 
 
@@ -102,6 +102,15 @@ This is the parent company and operations of the services.
 [Podcast.GlobalFromAsia](http://podcast.globalfromasia)
 Some of the recent podcasts (for full list head to DNS [GlobalFromAsia.com/podcast-radio/](https://www.globalfromasia.com/podcast-radio/ 
 )
+
+[Michael.Michelini](http://michael.michelini)
+Michael Michelini (personal site)
+
+[Maggie.Michelini](http://maggie.michelini)
+Maggie Michelini (personal site)
+
+[Miles.Michelini](http://miles.michelini)
+Miles Michelini (personal site)
 
 [👧❤.🐇🍛](http://xn--qei1848m.xn--1i8hxk/)
 A dad does whatever it takes to keep his daughter happy.
