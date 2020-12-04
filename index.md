@@ -75,6 +75,12 @@ This is a bartender community coming soon.
 [My.evergreen](http://my.evergreen)
 This is a content creators service provider community coming soon
 
+[My.loadpipe](http://my.loadpipe)
+This is a supply chain cross border trade community coming soon
+
+[My.ventureseed](http://my.ventureseed)
+This is a startup investment community coming soon
+
 [My.vocation](http://my.vocation)
 This is a career development community coming soon.
 
