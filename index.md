@@ -124,3 +124,7 @@ A dad does whatever it takes to keep his daughter happy.
 [👦.🤖🦾](http://xn--oq8h.xn--yp9hqk/)
 A dad does whatever it takes to keep his son happy.
 
+
+[🏠.🦩🤝](http://xn--um8h.xn--5p9hxi/)
+Our home where flamingos make handshakes.
+
