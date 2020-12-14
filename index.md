@@ -68,6 +68,12 @@ This is a business process outsourcing (BPO) service provider community coming s
 [My.qc](http://my.qc)
 This is a quality control (QC) service provider community coming soon
 
+[go.yearly](http://go.yearly)
+Memberships and annual events and round ups, coming soon
+
+[My.hag](http://my.hag)
+We all need to be pushed a bit, coming soon
+
 
 [我的.工厂](http://xn--wnu286b.xn--fmrp5v/)
 My factory in Chinese 
