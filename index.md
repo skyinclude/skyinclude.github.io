@@ -6,6 +6,15 @@ SkyInclude Helps You Ensure You Are Part of the New Internet
 
 Be an Early Adopter and Claim Your TLD of the decentralized web
 
+## Let's Connect on Handshake Mercenary - Free Forum for HNS Enthusiasts
+
+Recently (Mid Jan 2021) SkyInclude invested in setting up a forum for Handshake enthusiasts to talk about buying / selling / dealing with the TLDs, as well as to discuss pricing and other trends. Called Handshake [Mercenary](http://mercenary.hns.to).
+
+Signup free on HNS at:
+[handshake.mercenary](http://handshake.mercenary) - HNS resolver required to signup.
+
+No HNS Resolver? Come on, get that setup to support the ecosystme and well - get one! But if you want to browse, [Handshake.Mercenary.Hns.To](http://handshake.mercenary.hns.to) - use HNS.to
+
 
 
 ## Disrupting the old DNS
