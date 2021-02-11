@@ -147,5 +147,8 @@ A dad does whatever it takes to keep his son happy.
 
 
 [🏠.🦩🤝](http://xn--um8h.xn--5p9hxi/)
-Our home where flamingos make handshakes.
+Our home where flamingos make handshakes (emoji center).
 
+
+[♙](http://xn--35h.hns.to)
+Pawn and NFT fun.
