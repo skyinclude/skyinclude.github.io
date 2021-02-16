@@ -68,6 +68,10 @@ We all need templates for our life, from web and tech, to just any standard temp
 [Contentinvestments.upsy](http://contentinvestments.upsy)
 This is a content creation service - and we can also help make content on the HNS ecosystem.
 
+
+[http://xn--eqrt2g.xn--hxt/](http://域名.店) - or [http://xn--eqrt2g.xn--hxt.hns.to/](http://域名.店.hns.to)
+Domain Shop in Chinese
+
 [My.3pl](http://my.3pl) 
 This is a logistics and warehousing (Third Party Logistics, 3PL) service provider community coming soon.
 
