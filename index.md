@@ -69,7 +69,7 @@ We all need templates for our life, from web and tech, to just any standard temp
 This is a content creation service - and we can also help make content on the HNS ecosystem.
 
 
-[http://xn--eqrt2g.xn--hxt/](http://域名.店) - or [http://xn--eqrt2g.xn--hxt.hns.to/](http://域名.店.hns.to)
+[域名.店](http://xn--eqrt2g.xn--hxt/) - or [域名.店.hns.to](http://xn--eqrt2g.xn--hxt.hns.to/) 
 Domain Shop in Chinese
 
 [My.3pl](http://my.3pl) 
@@ -142,6 +142,9 @@ Maggie Michelini (personal site)
 
 [Miles.Michelini](http://miles.michelini)
 Miles Michelini (personal site)
+
+[😝](http://xn--728h./) or [😝.hns.to](http://xn--728h.hns.to/)
+Fun, flirty, and wild! Keep it interesting, life is short!
 
 [👧❤.🐇🍛](http://xn--qei1848m.xn--1i8hxk/)
 A dad does whatever it takes to keep his daughter happy.
