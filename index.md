@@ -62,6 +62,13 @@ Want us to help create your site in Handshake? This is a tutorial as well as a f
 [my.chatbots](http://my.chatbots) - also chatbot/
 The future is bots, and we will all have our bot friends to talk to.
 
+[leanfactories.upsy](http://leanfactories.upsy)
+Factories that want to be lean. 
+
+[BuildMyOnlineStore.upsy](http://buildmyonlinestore.upsy)
+Ecommerce blog and podcast. 
+
+
 [your.templates](http://your.templates)
 We all need templates for our life, from web and tech, to just any standard template process.
 
