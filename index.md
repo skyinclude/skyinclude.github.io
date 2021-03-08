@@ -68,6 +68,9 @@ Factories that want to be lean.
 [BuildMyOnlineStore.upsy](http://buildmyonlinestore.upsy)
 Ecommerce blog and podcast. 
 
+[MikesBlog.upsy](http://mikesblog.upsy)
+Mike Michelini's personal blog, on Handshake
+
 
 [your.templates](http://your.templates)
 We all need templates for our life, from web and tech, to just any standard template process.
