@@ -59,9 +59,6 @@ Let’s add some links to our other Handshake sites:
 [Setup.Skyinclude](http://setup.skyinclude)
 Want us to help create your site in Handshake? This is a tutorial as well as a full service agency to help people create their sites on the Handshake ecosystem
 
-[home.shadstone](http://home.shadstone)
-Internet Marketing Services
-
 [my.chatbots](http://my.chatbots) - also chatbot/
 The future is bots, and we will all have our bot friends to talk to.
 
