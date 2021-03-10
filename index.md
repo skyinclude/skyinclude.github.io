@@ -62,8 +62,17 @@ Want us to help create your site in Handshake? This is a tutorial as well as a f
 [my.chatbots](http://my.chatbots) - also chatbot/
 The future is bots, and we will all have our bot friends to talk to.
 
+[portalhongkong.upsy](http://portalhongkong.upsy)
+Hong Kong Business Search Directory
+
+[amzassistant.upsy](http://amzassistant.upsy)
+Amazon Seller Directory Assistance
+
+[healthcarephilippines.upsy](http://healthcarephilippines.upsy)
+Directory of Healthcare Facilities in the Philippines
+
 [leanfactories.upsy](http://leanfactories.upsy)
-Factories that want to be lean. 
+Factories that want to be lean.
 
 [BuildMyOnlineStore.upsy](http://buildmyonlinestore.upsy)
 Ecommerce blog and podcast. 
