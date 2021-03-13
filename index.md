@@ -59,8 +59,26 @@ Let’s add some links to our other Handshake sites:
 [Setup.Skyinclude](http://setup.skyinclude)
 Want us to help create your site in Handshake? This is a tutorial as well as a full service agency to help people create their sites on the Handshake ecosystem
 
-[my.chatbots](http://my.chatbots) - also chatbot/
-The future is bots, and we will all have our bot friends to talk to.
+[ventureseed.upsy](http://ventureseed.upsy)
+Platform For International Startups
+
+[expat.upsy](http://expat.upsy)
+Expat Help in the Philippines
+
+[excaliburbrothers.upsy](http://excaliburbrothers.upsy)
+Fantasy & Medieval Swords & Weapons for Sale
+
+[crossbordersummit.upsy](http://crossbordersummit.upsy)
+An International Event on Export B2C Ecommerce
+
+[continuousspectrum.upsy](http://continuousspectrum.upsy)
+Get Answers To Your Scientific Questions
+
+[shop.bartender](http://shop.bartender)
+New York Nightlife Direct To Your Door!
+
+[wholesalersdropship.upsy](http://wholesalersdropship.upsy)
+Wholesale Products Factory Direct
 
 [portalhongkong.upsy](http://portalhongkong.upsy)
 Hong Kong Business Search Directory
@@ -79,6 +97,9 @@ Ecommerce blog and podcast.
 
 [MikesBlog.upsy](http://mikesblog.upsy)
 Mike Michelini's personal blog, on Handshake
+
+[my.chatbots](http://my.chatbots) - also chatbot/
+The future is bots, and we will all have our bot friends to talk to.
 
 [your.templates](http://your.templates)
 We all need templates for our life, from web and tech, to just any standard template process.
