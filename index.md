@@ -65,6 +65,21 @@ Build An International Empire From China, Hong Kong & Asia!
 [news.gfa](http://news.gfa)
 Our Home Grown Network of News
 
+[vip.gfa](http://vip.gfa)
+GFA VIP Network: Cross-Border Business Experts
+
+[partners.gfa](http://partners.gfa)
+Let’s Make Long Term Business Deals
+
+[events.gfa](http://events.gfa)
+Events For Your Global Empire
+
+[gfavip.gfa](http://gfavip.gfa)
+SEE WHAT PREMIUM MEMBERSHIP BENEFITS WE PROVIDE THOSE ON THE “INNER CIRCLE”
+
+[my.ecovillage](http://my.ecovillage)
+A Regenerative Village
+
 [ventureseed.upsy](http://ventureseed.upsy)
 Platform For International Startups
 
