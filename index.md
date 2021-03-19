@@ -80,6 +80,15 @@ SEE WHAT PREMIUM MEMBERSHIP BENEFITS WE PROVIDE THOSE ON THE “INNER CIRCLE”
 [my.ecovillage](http://my.ecovillage)
 A Regenerative Village
 
+[apps.upsy](http://apps.upsy)
+The Best Apps and Social Groups on the Planet: The App Space
+
+[motivation.upsy](http://motivation.upsy)
+Inspire Yourself Daily To Make Greatness at Making Motivation
+
+[rv.upsy](http://rv.upsy)
+RV Family Life - Take RV Adventures & Life on the Road
+
 [ventureseed.upsy](http://ventureseed.upsy)
 Platform For International Startups
 
