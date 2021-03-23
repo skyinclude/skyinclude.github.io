@@ -77,6 +77,9 @@ Events For Your Global Empire
 [gfavip.gfa](http://gfavip.gfa)
 SEE WHAT PREMIUM MEMBERSHIP BENEFITS WE PROVIDE THOSE ON THE “INNER CIRCLE”
 
+[matchmaker.conference](http://matchmaker.conference)
+Make Cross Border Business Deals
+
 [my.ecovillage](http://my.ecovillage)
 A Regenerative Village
 
