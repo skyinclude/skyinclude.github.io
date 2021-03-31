@@ -131,6 +131,81 @@ Ecommerce blog and podcast.
 [MikesBlog.upsy](http://mikesblog.upsy)
 Mike Michelini's personal blog, on Handshake
 
+[gold.asap](http://gold.asap)
+Make a Smart Move and Invest in Smart Gold
+
+[hair.asap](http://hair.asap)
+Natural Hairstyles
+
+[golf.asap](http://golf.asap)
+Better golf made simple
+
+[bloggertemplates.asap](http://bloggertemplates.asap)
+Free XML Blogger Templates
+
+[usa.nationalpaydayloans](http://usa.nationalpaydayloans)
+Get Up to $1,000 Within 24 Hours!
+
+[medic.asap](http://medic.asap)
+Your Personal Medical Tourism Agency
+
+[kitchen.asap](http://kitchen.asap)
+Reviewing Everything and the Kitchen Sink
+
+[phones.asap](http://phones.asap)
+Unbiased reviews, resources and training
+
+[wellness.ups](http://wellness.ups)
+Your Ultimate Wellness Guide
+
+[modern.bartender](http://modern.bartender)
+Where Form Follows Function
+
+[vietnam.ups](http://vietnam.ups)
+Learn everything about Vietnam
+
+[crowdtrader.upsy](http://crowdtrader.upsy)
+Invest with the Crowd!
+
+[blog.asap](http://blog.asap)
+A FREE BEGINNERS GUIDE & STEP BY STEP TUTORIAL
+
+[tokyo.upsy](http://tokyo.upsy)
+Eveything you need to know when living in Tokyo
+
+[cydia.upsy](http://cydia.upsy)
+CYDIA APPS, TWEAKS, AND JAILBREAK NEWS
+
+[unlockphone.asap](http://unlockphone.asap)
+SETS YOUR PHONE FREE FROM CARRIER LOCKS!
+
+[amz.upsy](http://amz.upsy)
+Take Your Amazon Business to New Heights
+
+[massage.asap](http://massage.asap)
+The Massage Your Body Needs
+
+[thaifood.asap](http://thaifood.asap)
+The Perfect Amount Of Spice
+
+[vr.upsy](http://vr.upsy)
+The Center of Virtual Reality
+
+[teacherjobs.asap](http://teacherjobs.asap)
+Recruiting Teachers for international  opportunities
+
+[lifedesign.upsy](http://lifedesign.upsy)
+Creating a Well Designed Life
+
+[women.upsy](http://women.upsy)
+Women in Tech and Startups
+
+[redletter.upsy](http://redletter.upsy)
+Join the movement where every day is a Red Letter day
+
+[jewish.upsy](http://jewish.upsy)
+JEWISH NEWS, BLOGS, AND JUDAICA
+
 [my.chatbots](http://my.chatbots) - also chatbot/
 The future is bots, and we will all have our bot friends to talk to.
 
