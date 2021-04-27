@@ -83,6 +83,9 @@ Make Cross Border Business Deals
 [my.ecovillage](http://my.ecovillage)
 A Regenerative Village
 
+[blacklist.txt](http://blacklist.txt)
+Whatever reason we at SkyInclude decide to add to the blacklist - you can subscribe to this blacklist.txt or not for your own sites, browsers, and tools.
+
 [apps.upsy](http://apps.upsy)
 The Best Apps and Social Groups on the Planet: The App Space
 
