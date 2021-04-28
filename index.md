@@ -86,6 +86,9 @@ A Regenerative Village
 [blacklist.txt](http://blacklist.txt)
 Whatever reason we at SkyInclude decide to add to the blacklist - you can subscribe to this blacklist.txt or not for your own sites, browsers, and tools.
 
+[config.txt](http://config.txt)
+A website for all your config needs!
+
 [apps.upsy](http://apps.upsy)
 The Best Apps and Social Groups on the Planet: The App Space
 
